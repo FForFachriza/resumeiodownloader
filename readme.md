@@ -7,7 +7,7 @@ Projek simpel untuk mengunduh cv dari resume.io dengan gratis berbasis Node.js C
 Clone the project
 
 ```bash
-  git clone https://github.com/FForFachriza/readmeiodl.git
+  git clone https://github.com/FForFachriza/resumeiodownloader.git
 ```
 
 Go to the project directory
